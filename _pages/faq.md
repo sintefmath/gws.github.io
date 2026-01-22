@@ -1,7 +1,7 @@
 ---
 permalink: /faq/
-title: "FAQ"
+title: "Frequently asked questions"
 author_profile: true
 ---
 
-Frequently Asked Questions.
+TBW
