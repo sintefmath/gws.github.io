@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Geilo Winter School"
 title_separator          : "-"
 name                     : &name "Geilo Winter School"
-description              : &description "Annual winter school in computational science."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Annual winter school on emerging topics in computational sciences"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://sintefmath.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
